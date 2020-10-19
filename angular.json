@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "deepProject"
+    }
+  },
+  "defaultProject": "deepProject",
+  "cli": {
+    "analytics": "f260996f-485b-4a64-b3cf-88dde4d153ab"
+  }
 }
